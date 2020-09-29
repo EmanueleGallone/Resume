@@ -1,17 +1,17 @@
 # Education Template
 - layout: left
-  name: Politecnico Di Milano (IT)
+  name: Politecnico Di Milano(IT)
   dates: September 2017
-  qualification: Computer Science Engineer
-  quote: >
+  qualification: BSc Computer Science Engineer
+  #quote: >
     Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
     Description of qualification
 - layout: left
-  name: Politecnico Di Milano (IT)
+  name: Politecnico Di Milano(IT)
   dates: December 2020
-  qualification: TLC Engineer (Internet Engineering)
+  qualification: MSc TLC Engineer (Internet Engineering)
   quote: >
-    short institution
+    Specialized in Internet Engineering.
   description: | #bla
-    Description
+    High parallelism with Computer Science and Engineering MSc having more focus on networking.
