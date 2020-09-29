@@ -1,9 +1,17 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+  name: Politecnico Di Milano (IT)
+  date: 2017
+  qualification: Computer Science Engineer
   quote: >
     Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
     Description of qualification
+- layout: left
+  name: Politecnico Di Milano (IT)
+  date: 2020
+  qualification: TLC Engineer (Internet Engineering)
+  quote: >
+    short institution
+  description: | #bla
+    Description
