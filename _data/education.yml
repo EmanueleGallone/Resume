@@ -1,6 +1,6 @@
 # Education Template
 - layout: left
-  name: Politecnico Di Milano (IT)
+  name: Politecnico Di Milano(IT)
   dates: September 2017
   qualification: BSc Computer Science Engineer
   quote: >
@@ -8,7 +8,7 @@
   description: | # this will include new lines to allow paragraphs
   
 - layout: left
-  name: Politecnico Di Milano (IT)
+  name: Politecnico Di Milano(IT)
   dates: December 2020
   qualification: MSc TLC Engineer (Internet Engineering)
   quote: >

@@ -1,10 +1,11 @@
 # Experience template
 - layout: left
-  company: Company name
+  company: Robert Bosch Group Italy
   link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  job_title: IT Specialist
+  dates: September 2017 - June 2018
   quote: >
    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of role
+   Cooperate with colleagues to create tools for automating workflow processes, with clean and simple interfaces, intuitive interactions and experiences, using .NET tools (mainly C# and ASP.NET). Work with senior developer to manage large, complex design projects for in-corporate clients. Carry out quality assurance tests to discover errors and optimize usability.
+
