@@ -1,11 +1,11 @@
 # Experience template
 - layout: left
   company: Robert Bosch Group Italy
-  link: Link to company (optional)
+  link: https://www.bosch.it/
   job_title: IT Specialist
   dates: September 2017 - June 2018
   quote: >
-   Short description of the company (optional)
+   is a German multinational engineering and technology company headquartered in Gerlingen. Bosch's core operating areas are spread across four business sectors: mobility (hardware and software), consumer goods (including household appliances and power tools), industrial technology (including drive and control) and energy and building technology.
   description: | # this will include new lines to allow paragraphs
    Cooperate with colleagues to create tools for automating workflow processes, with clean and simple interfaces, intuitive interactions and experiences, using .NET tools (mainly C# and ASP.NET). Work with senior developer to manage large, complex design projects for in-corporate clients. Carry out quality assurance tests to discover errors and optimize usability.
 
